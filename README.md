@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently pursuing Bachelor of Engineering in Information Technology<br>🌱 I’m currently Exploring My Problem Solving Skills On Leetcode.<br>🤔 Working At Google Developer Students Club NBNSSOE as Team Lead.<br>💬 Ask me about web development, community work, machine learning.<br>📫 How to reach me: https://www.linkedin.com/in/ishwari-kulkarni-198b6b231/<br>😄 Pronouns: She/Her
+🔭 I’m Currently working as Associate Software Engineer at Accenture<br>🌱 Exploring My Problem Solving Skills On Leetcode.<br>🤔 Worked At Google Developer Students Club NBNSSOE as Team Lead.<br>💬 Ask me about data engineering, web development, community work, machine learning.<br>📫 How to reach me: https://www.linkedin.com/in/ishwari-kulkarni-198b6b231/<br>😄 Pronouns: She/Her
 
 
 ## 🌐 Socials:
